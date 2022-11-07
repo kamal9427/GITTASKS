@@ -14,6 +14,19 @@ public class classA {
 		System.out.println("Audi");
 	}
 	
+	public void employeeName() {
+		System.out.println("Kamal");
+	}
+	
+	public void empId() {
+		System.out.println("7412");
+	}
+	
+	public void role() {
+		System.out.println("Testing Engineer");
+	}
+	
+	
 	
 
 }
