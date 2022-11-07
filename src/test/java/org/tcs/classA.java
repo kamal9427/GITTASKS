@@ -14,6 +14,19 @@ public class classA {
 		System.out.println("Audi");
 	}
 	
+
+	public void company() {
+		System.out.println("Accenture");
+	}
+	
+	public void address() {
+		System.out.println("Chennai");
+	}
+	
+	public void team() {
+		System.out.println("Testing");
+	}
+	
 	public void employeeName() {
 		System.out.println("Kamal");
 	}
@@ -27,6 +40,9 @@ public class classA {
 	}
 	
 	
+
+
+
 	
 
 }
