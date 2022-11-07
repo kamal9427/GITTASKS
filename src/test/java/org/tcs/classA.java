@@ -14,6 +14,7 @@ public class classA {
 		System.out.println("Audi");
 	}
 	
+
 	public void company() {
 		System.out.println("Accenture");
 	}
@@ -26,6 +27,22 @@ public class classA {
 		System.out.println("Testing");
 	}
 	
+	public void employeeName() {
+		System.out.println("Kamal");
+	}
+	
+	public void empId() {
+		System.out.println("7412");
+	}
+	
+	public void role() {
+		System.out.println("Testing Engineer");
+	}
+	
+	
+
+
+
 	
 
 }
